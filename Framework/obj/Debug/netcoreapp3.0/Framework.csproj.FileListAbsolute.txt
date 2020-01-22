@@ -1,0 +1,8 @@
+C:\Users\USER\source\repos\StatsRoyale\Framework\bin\Debug\netcoreapp3.0\Framework.deps.json
+C:\Users\USER\source\repos\StatsRoyale\Framework\bin\Debug\netcoreapp3.0\Framework.dll
+C:\Users\USER\source\repos\StatsRoyale\Framework\bin\Debug\netcoreapp3.0\Framework.pdb
+C:\Users\USER\source\repos\StatsRoyale\Framework\obj\Debug\netcoreapp3.0\Framework.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StatsRoyale\Framework\obj\Debug\netcoreapp3.0\Framework.AssemblyInfo.cs
+C:\Users\USER\source\repos\StatsRoyale\Framework\obj\Debug\netcoreapp3.0\Framework.dll
+C:\Users\USER\source\repos\StatsRoyale\Framework\obj\Debug\netcoreapp3.0\Framework.pdb
+C:\Users\USER\source\repos\StatsRoyale\Framework\obj\Debug\netcoreapp3.0\Framework.csprojAssemblyReference.cache

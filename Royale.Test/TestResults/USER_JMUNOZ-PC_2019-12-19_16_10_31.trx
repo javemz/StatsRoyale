@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="2bc9bba8-d057-44d2-b8b6-e03908338bb1" name="USER@JMUNOZ-PC 2019-12-19 16:10:31" runUser="JMUNOZ-PC\USER" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2019-12-19T16:10:31.3338808-03:00" queuing="2019-12-19T16:10:31.3338808-03:00" start="2019-12-19T16:10:27.4734182-03:00" finish="2019-12-19T16:11:11.1487296-03:00" />
+  <TestSettings name="default" id="8c3ae557-5acd-400b-8bd7-33ff2645429a">
+    <Deployment runDeploymentRoot="USER_JMUNOZ-PC_2019-12-19_16_10_31" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="e8ffc03f-07cd-43d5-a970-c55e825248c6" testId="c70772ba-4041-57e2-a78f-dbb80147e731" testName="Ice_Spirit_are_correct_on_Card_Details_Page" computerName="JMUNOZ-PC" duration="00:00:20.0076860" startTime="2019-12-19T16:10:30.0000000-03:00" endTime="2019-12-19T16:10:50.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e8ffc03f-07cd-43d5-a970-c55e825248c6">
+      <Output>
+        <StdOut>Test 2.0 ************** Fishised</StdOut>
+        <ErrorInfo>
+          <Message>OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {"method":"css selector","selector":"a[href*='Ice+Spirit']"}&#xD;
+  (Session info: chrome=79.0.3945.88)</Message>
+          <StackTrace>   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)&#xD;
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)&#xD;
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)&#xD;
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByCssSelector(String cssSelector)&#xD;
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClass23_0.&lt;CssSelector&gt;b__0(ISearchContext context)&#xD;
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)&#xD;
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)&#xD;
+   at Royale.Test.CardTests.Ice_Spirit_are_correct_on_Card_Details_Page() in C:\Users\USER\source\repos\StatsRoyale\Royale.Test\CardTests.cs:line 54</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="b579eacf-0ff6-4f0f-923e-08a96e5658d9" testId="368d6b9c-04f9-5480-d334-a246100b7c1d" testName="Ice_Spirit_is_on_Cards_Page" computerName="JMUNOZ-PC" duration="00:00:20.3278390" startTime="2019-12-19T16:10:50.0000000-03:00" endTime="2019-12-19T16:11:11.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Failed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="b579eacf-0ff6-4f0f-923e-08a96e5658d9">
+      <Output>
+        <StdOut>Test 1.0 ************** Fishised</StdOut>
+        <ErrorInfo>
+          <Message>OpenQA.Selenium.NoSuchElementException : no such element: Unable to locate element: {"method":"css selector","selector":"a[href*='Ice+Spirit']"}&#xD;
+  (Session info: chrome=79.0.3945.88)</Message>
+          <StackTrace>   at OpenQA.Selenium.Remote.RemoteWebDriver.UnpackAndThrowOnError(Response errorResponse)&#xD;
+   at OpenQA.Selenium.Remote.RemoteWebDriver.Execute(String driverCommandToExecute, Dictionary`2 parameters)&#xD;
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(String mechanism, String value)&#xD;
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElementByCssSelector(String cssSelector)&#xD;
+   at OpenQA.Selenium.By.&lt;&gt;c__DisplayClass23_0.&lt;CssSelector&gt;b__0(ISearchContext context)&#xD;
+   at OpenQA.Selenium.By.FindElement(ISearchContext context)&#xD;
+   at OpenQA.Selenium.Remote.RemoteWebDriver.FindElement(By by)&#xD;
+   at Royale.Test.CardTests.Ice_Spirit_is_on_Cards_Page() in C:\Users\USER\source\repos\StatsRoyale\Royale.Test\CardTests.cs:line 41</StackTrace>
+        </ErrorInfo>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="f1e20aca-c1af-4235-9da3-fff2feb738c4" testId="1acc3f3a-1352-2ef0-4d4f-b1ecbfdf030a" testName="Ice_Spirit" computerName="JMUNOZ-PC" duration="00:00:02.0908850" startTime="2019-12-19T16:10:28.0000000-03:00" endTime="2019-12-19T16:10:30.0000000-03:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="f1e20aca-c1af-4235-9da3-fff2feb738c4">
+      <Output>
+        <StdOut>Test 0.0 ************** Fishised&#xD;
+Test 0.1 ************** Fishised</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Ice_Spirit_is_on_Cards_Page" storage="c:\users\user\source\repos\statsroyale\royale.test\bin\debug\netcoreapp3.0\royale.test.dll" id="368d6b9c-04f9-5480-d334-a246100b7c1d">
+      <Execution id="b579eacf-0ff6-4f0f-923e-08a96e5658d9" />
+      <TestMethod codeBase="C:\Users\USER\source\repos\StatsRoyale\Royale.Test\bin\Debug\netcoreapp3.0\Royale.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Royale.Test.CardTests" name="Ice_Spirit_is_on_Cards_Page" />
+    </UnitTest>
+    <UnitTest name="Ice_Spirit_are_correct_on_Card_Details_Page" storage="c:\users\user\source\repos\statsroyale\royale.test\bin\debug\netcoreapp3.0\royale.test.dll" id="c70772ba-4041-57e2-a78f-dbb80147e731">
+      <Execution id="e8ffc03f-07cd-43d5-a970-c55e825248c6" />
+      <TestMethod codeBase="C:\Users\USER\source\repos\StatsRoyale\Royale.Test\bin\Debug\netcoreapp3.0\Royale.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Royale.Test.CardTests" name="Ice_Spirit_are_correct_on_Card_Details_Page" />
+    </UnitTest>
+    <UnitTest name="Ice_Spirit" storage="c:\users\user\source\repos\statsroyale\royale.test\bin\debug\netcoreapp3.0\royale.test.dll" id="1acc3f3a-1352-2ef0-4d4f-b1ecbfdf030a">
+      <Execution id="f1e20aca-c1af-4235-9da3-fff2feb738c4" />
+      <TestMethod codeBase="C:\Users\USER\source\repos\StatsRoyale\Royale.Test\bin\Debug\netcoreapp3.0\Royale.Test.dll" adapterTypeName="executor://nunit3testexecutor/" className="Royale.Test.CardTests" name="Ice_Spirit" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="c70772ba-4041-57e2-a78f-dbb80147e731" executionId="e8ffc03f-07cd-43d5-a970-c55e825248c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="368d6b9c-04f9-5480-d334-a246100b7c1d" executionId="b579eacf-0ff6-4f0f-923e-08a96e5658d9" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="1acc3f3a-1352-2ef0-4d4f-b1ecbfdf030a" executionId="f1e20aca-c1af-4235-9da3-fff2feb738c4" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Failed">
+    <Counters total="3" executed="3" passed="1" failed="2" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>NUnit Adapter 3.13.0.0: Test execution started&#xD;
+Running all tests in C:\Users\USER\source\repos\StatsRoyale\Royale.Test\bin\Debug\netcoreapp3.0\Royale.Test.dll&#xD;
+   NUnit3TestExecutor converted 3 of 3 NUnit test cases&#xD;
+NUnit Adapter 3.13.0.0: Test execution complete&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>

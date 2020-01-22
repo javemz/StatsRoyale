@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\StatsRoyale\Royale\bin\Debug\netcoreapp3.0\Royale.deps.json
+C:\Users\USER\source\repos\StatsRoyale\Royale\bin\Debug\netcoreapp3.0\Royale.dll
+C:\Users\USER\source\repos\StatsRoyale\Royale\bin\Debug\netcoreapp3.0\Royale.pdb
+C:\Users\USER\source\repos\StatsRoyale\Royale\bin\Debug\netcoreapp3.0\Framework.dll
+C:\Users\USER\source\repos\StatsRoyale\Royale\bin\Debug\netcoreapp3.0\Framework.pdb
+C:\Users\USER\source\repos\StatsRoyale\Royale\obj\Debug\netcoreapp3.0\Royale.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\StatsRoyale\Royale\obj\Debug\netcoreapp3.0\Royale.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\StatsRoyale\Royale\obj\Debug\netcoreapp3.0\Royale.AssemblyInfo.cs
+C:\Users\USER\source\repos\StatsRoyale\Royale\obj\Debug\netcoreapp3.0\Royale.csproj.CopyComplete
+C:\Users\USER\source\repos\StatsRoyale\Royale\obj\Debug\netcoreapp3.0\Royale.dll
+C:\Users\USER\source\repos\StatsRoyale\Royale\obj\Debug\netcoreapp3.0\Royale.pdb
